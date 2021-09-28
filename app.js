@@ -6,8 +6,8 @@ const email = {
   "port" : 2525,
   "secure" : false,
   "auth" : {
-    "user" : "a503dadf026d02",
-    "pass" : "38e28105b3ac85"
+    "user" : "nodeuser",
+    "pass" : "nodepassword"
   }
 }
 
